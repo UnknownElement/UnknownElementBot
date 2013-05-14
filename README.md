@@ -126,23 +126,4 @@ Footnotes
 ---------
 
 - Questions, comments, or suggestions about the documentation? `Let me know`_
-  so I can improve it for other people.
-
-.. [1] ``python setup.py install``/``develop`` may require root, or use the
-       ``--user`` switch to install for the current user only.
-
-.. _UnknownElementBot:              http://en.wikipedia.org/wiki/User:
-.. _Python:                         http://python.org/
-.. _Wikipedia:                      http://en.wikipedia.org/
-.. _IRC:                            http://en.wikipedia.org/wiki/Internet_Relay_Chat
-.. _PyPI:                           http://packages.python.org/earwigbot
-.. _Pywikipedia framework:          http://pywikipediabot.sourceforge.net/
-.. _copyright violation detector:   http://en.wikipedia.org/wiki/Wikipedia:Bots/Requests_for_approval/EarwigBot_1
-.. _several ongoing tasks:          http://en.wikipedia.org/wiki/User:EarwigBot#Tasks
-.. _my instance of EarwigBot:       http://en.wikipedia.org/wiki/User:EarwigBot
-.. _earwigbot-plugins:              https://github.com/earwig/earwigbot-plugins
-.. _Python Package Index:           http://pypi.python.org
-.. _get pip:                        http://pypi.python.org/pypi/pip
-.. _git flow:                       http://nvie.com/posts/a-successful-git-branching-model/
-.. _explanation of YAML:            http://en.wikipedia.org/wiki/YAML
-.. _Let me know:                  l techgeekcasey@hotmail.com
+  so I can improve it for other people. Let me known: techgeekcasey@hotmail.com
